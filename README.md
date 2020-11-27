@@ -1,5 +1,6 @@
 # Competitive-Programming-Resource
-Few codes for some important CP basics. (PS : Not all codes are mine)
+
+Few codes for some important CP basics. *(PS : None of the codes are mine)*
 
 ## Extra Links for References : 
 - [Love Babbar - DSA Crakcer Sheet "Final-450"](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
@@ -11,5 +12,7 @@ Few codes for some important CP basics. (PS : Not all codes are mine)
   
   
  <p align="center">
+  <b><i>All thanks to Programming Club - AU for guiding and sharing such quality resources with us.</i></b>
+  <br>
   <b><i>If you Like :thumbsup: the Resource, Please give a star :star:</i></b>
  </p>
